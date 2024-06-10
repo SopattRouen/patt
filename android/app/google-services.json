@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043538337484",
+    "project_id": "multiflexstore-project",
+    "storage_bucket": "multiflexstore-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043538337484:android:755f472d07a606560d6c69",
+        "android_client_info": {
+          "package_name": "com.example.multiflex_store_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBq7gEk1x1OVUf_0kRcRDFdquubvWp41s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
